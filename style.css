@@ -2,7 +2,7 @@ body{
 	margin: 0 auto;
 	font-family: 'Montserrat', poppins;
 	font-size: 15px;
-	background-image: url('images/bg-top.svg');
+	background-image: url('..images/bg-top.svg');
 	background-repeat: no-repeat;
 	background-position: top right;
 	background-size: 25%;
@@ -10,7 +10,7 @@ body{
 }
 
 main {
-	background-image: url('images/bg-bottom.svg');
+	background-image: url('..images/bg-bottom.svg');
 	background-repeat: no-repeat;
 	background-position: bottom left;
 	box-sizing: border-box;
